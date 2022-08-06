@@ -57,7 +57,9 @@ h1{
     font-weight: 100;
 }
 #walk{
-    background-color: rgb(174, 229, 140);
+    
+    padding: 0%;
+    background-color: rgb(250, 241, 241);
 }
 .content{
     padding-top: 30px;
@@ -127,6 +129,7 @@ h1{
     position: relative;
     padding-top: 2rem;
     padding-bottom: 2rem;
+    padding-left: 2rem;
     border: 5px solid grey;
     border-radius: 4px;
 }
