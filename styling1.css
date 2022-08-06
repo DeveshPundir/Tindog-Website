@@ -1,0 +1,138 @@
+
+#title{
+    font-family: 'Montserrat-black', sans-serif;
+    background-color: rgb(231, 190, 102);
+    color: white;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+h1{
+    
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.navbar-brand{
+    font-size: 3rem;
+    font-family: "Ubunto";
+    color:white;
+}
+.nav-item{
+    padding: 0 18px;
+    color:white;
+
+}
+.heading1{
+    font-size:3.5rem;
+    font-family: 'Montserrat-black', sans-serif;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light';
+    color:white;
+}
+.download{
+    margin:5% 3% 5% 0%;
+}
+.title_img{
+    border-radius: 25px;
+    width: 60%;
+    box-shadow: 10px 10px 5px 12px rgb(216, 160, 4);
+    
+}
+#next{
+    color:white;
+    text-shadow: 2rem;
+    margin-right: 0px;
+    padding-top: 50px;
+    background-color: rgb(174, 229, 140);
+    padding-left: 70px;
+    font-weight: 100;
+}
+#walk{
+    background-color: rgb(174, 229, 140);
+}
+.content{
+    padding-top: 30px;
+}
+.content0{
+    flex: 0 0 auto;
+    background-color: rgb(234, 206, 95);
+    padding-top: 5rem;
+    padding-bottom: 4rem;
+    font-size: larger;
+    
+}
+.doglabel-img{
+    height: 30%;
+    width: 10%;
+}
+.content3{
+    text-align: center;
+    margin-top: 2rem;
+    
+}
+.content4{
+    text-align: center;
+    margin-top: 2rem;
+}
+.content5{
+    text-align: center;
+    margin-top: 2rem;
+}
+.head-content0{
+    font-family:  'Oleo Script Swash Caps', cursive;
+    font-size: 9vw;
+    text-align: center;
+    padding: 70px 0px;
+}
+
+.dog-sniff{
+    
+   background-color: rgb(173, 249, 249);
+   font-family: 'Merriweather', serif;
+}
+.dog-sniff-text{
+    text-align: center;
+    padding-top:6rem ;
+    font-family: 'Merriweather', serif;
+}
+.dog-select{
+    font-family: 'Merriweather', serif;
+    padding-top: 2rem;
+}
+.dog-select-img{
+    padding-top: 4rem;
+    font-family: 'Merriweather', serif;
+}
+.map{
+    margin-top: 3rem;
+    background-color: rgb(241, 136, 24);
+}
+.map-text{
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+#location{
+    position: relative;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border: 5px solid grey;
+    border-radius: 4px;
+}
+#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 1rem;
+}
+#copy{
+    background-color: black;
+    color: white;
+}
